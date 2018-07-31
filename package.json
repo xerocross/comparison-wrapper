@@ -1,0 +1,15 @@
+{
+  "name": "comparison-wrapper",
+  "version": "0.1.0",
+  "description": "A wrapper for JavaScript arrays useful for making the use of a comparison function more readable.",
+  "main": "comparison-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "comparison"
+  ],
+  "author": "Adam Cross",
+  "license": "MIT"
+}
