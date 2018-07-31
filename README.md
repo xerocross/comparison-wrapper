@@ -7,6 +7,7 @@ A wrapper for JavaScript arrays useful for making comparison functions more read
 Given an array `arr` and a comparison function `compareFunction` we generate the
 wrapper by executing for example
 ```
+import {getComparisonWrapper} from "comparison-wrapper"
 var e = getComparisonWrapper(compareFunction);
 ```
 You can assign the result of `getComparisonWrapper` to any variable you want.  

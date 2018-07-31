@@ -1,4 +1,4 @@
-module.exports.getComparisonWrapper : function (compareFunction) {
+module.exports.getComparisonWrapper = function (compareFunction) {
   return function(leftElement, comparisonString, rightElement) {
     switch (comparisonString) {
       case "<":
